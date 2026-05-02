@@ -1,6 +1,5 @@
 ![Profile Banner](https://res.cloudinary.com/dhl04adhz/image/upload/v1777706142/ChatGPT_Image_May_2_2026_01_15_20_PM_vq84cf.png)
 
-# Hi, I'm Zayed Iqbal
 
 I am a Full Stack Developer with 1 year of professional experience, building modern, scalable, high-performance web applications. I work across both frontend and backend, focusing on polished, user-focused solutions while collaborating with teams and exploring new technologies.
 
