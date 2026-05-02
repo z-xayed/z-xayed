@@ -1,5 +1,5 @@
 <!-- Replace this URL with your Cloudinary image URL -->
-![Profile Image](https://res.cloudinary.com/your-cloud-name/image/upload/v0000000/placeholder.png)
+![Profile Image]([https://res.cloudinary.com/your-cloud-name/image/upload/v0000000/placeholder.png](https://res.cloudinary.com/dhl04adhz/image/upload/v1759469978/ChatGPT_Image_Oct_3_2025_11_38_03_AM_cexo1d.png))
 
 # Hi there, I'm Zayed Iqbal
 
