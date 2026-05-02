@@ -1,65 +1,36 @@
-<!-- Replace this URL with your Cloudinary image URL -->
-![Profile Image]([https://res.cloudinary.com/your-cloud-name/image/upload/v0000000/placeholder.png](https://res.cloudinary.com/dhl04adhz/image/upload/v1759469978/ChatGPT_Image_Oct_3_2025_11_38_03_AM_cexo1d.png))
+<!-- Banner at the top -->
+![Profile Banner](https://res.cloudinary.com/dhl04adhz/image/upload/v1777706142/ChatGPT_Image_May_2_2026_01_15_20_PM_vq84cf.png)
 
-# Hi there, I'm Zayed Iqbal
+# Hi, I'm Zayed Iqbal
 
-## About Me
-I am a **Full Stack Developer** with **1 year of professional experience**, currently working at **Softvence Agency**, Dhaka. I specialize in building **user-focused web applications** across both frontend and backend development. I work in dynamic environments, collaborating directly with clients to understand requirements and deliver solutions that solve real-world problems.
-
-Previously, my GitHub account was suspended due to unauthorized access attempts on the company repository, which was beyond my control. Since then, I have strengthened my security practices and continue to focus on professional, reliable, and secure development.
-
-I switched my career to tech and am passionate about **continuous learning, building scalable applications, and exploring modern technologies**. I am confident, accountable, and eager to contribute meaningfully while growing alongside professional teams.
+I am a **Full Stack Developer** with 1 year of professional experience, building **modern, scalable, and high-performance web applications**.  
+I work across both **frontend and backend**, with a passion for creating **polished, user-focused solutions**.  
+I enjoy collaborating with teams, exploring new technologies, and delivering real-world projects with professionalism and accountability.
 
 ---
 
-## Skills
+## 🚀 Skills & Technologies
+
+### Languages
+
+| JavaScript | TypeScript | Python | Java | C++ | C | PHP |
+|------------|------------|--------|------|-----|---|-----|
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/> | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/> | <img src="https://cdn.simpleicons.org/python/3776AB" width="40"/> | <img src="https://cdn.simpleicons.org/java/007396" width="40"/> | <img src="https://cdn.simpleicons.org/c/00599C" width="40"/> | <img src="https://cdn.simpleicons.org/c/00599C" width="40"/> | <img src="https://cdn.simpleicons.org/php/777BB4" width="40"/> |
 
 ### Frontend
-- **Languages:** JavaScript, TypeScript  
-- **Frameworks & Libraries:** React, Next.js, Redux, Tailwind CSS, Material UI, ShadCN, Lightswind UI  
-- **Tools & Features:** Framer Motion, Cloudinary, Vercel, Netlify  
 
-### Backend
-- **Languages & Frameworks:** Node.js, Express.js, NestJS  
-- **Databases & ORMs:** PostgreSQL, MongoDB, Prisma, Mongoose, Redis  
-- **Other:** JWT Authentication, Stripe, SSLCommerz (Payment Gateway), WebSocket, node-cron, Supabase  
+| React | Next.js | Vue.js | Redux | HTML5 | CSS3 | Tailwind |
+|-------|---------|--------|-------|-------|-----|---------|
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/> | <img src="https://cdn.simpleicons.org/next.js/000000" width="40"/> | <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="40"/> | <img src="https://cdn.simpleicons.org/redux/764ABC" width="40"/> | <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/> | <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"/> | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/> |
 
-### Tools & DevOps
-- GitHub, Docker, GitHub Actions, Firebase  
-- **AWS Services:** S3, EC2, SES  
-- NUQS, BullMQ
+### Backend & Databases
 
----
+| Node.js | Express | NestJS | PostgreSQL | MongoDB | MySQL | Firebase | Redis |
+|---------|--------|-------|-----------|--------|------|---------|-------|
+| <img src="https://cdn.simpleicons.org/node.js/339933" width="40"/> | <img src="https://cdn.simpleicons.org/express/000000" width="40"/> | <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"/> | <img src="https://cdn.simpleicons.org/postgresql/336791" width="40"/> | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/> | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/> | <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40"/> | <img src="https://cdn.simpleicons.org/redis/DC382D" width="40"/> |
 
-## Education
-**BSc Honours in Physics**  
-Govt Titumir College  
+### Tools & Platforms
 
----
-
-## Experience
-**Jr Full Stack Developer** — Softvence Agency (June 2025 – Present, Dhaka, Bangladesh)  
-- Developed full-stack solutions using React, Next.js, NestJS, PostgreSQL, MongoDB, Prisma, Redis  
-- Implemented optimized system designs for project delivery  
-- Collaborated with clients to gather requirements and translate them into functional applications  
-
----
-## Languages
-- **English:** Fluent  
-- **Bangla:** Native  
-
----
-
-## Contact
-- **Email:** zzayediqbalofficial@gmail.com  
-- **WhatsApp:** +8801902320296  
-- **Portfolio:** [https://zayed-portfolio.netlify.app](https://zayed-portfolio.netlify.app)  
-- **LinkedIn:** [https://www.linkedin.com/in/zayed-iqbal](https://www.linkedin.com/in/zayed-iqbal)  
-- **GitHub:** [https://github.com/z-xayed](https://github.com/z-xayed)
-
----
-
-## Personal Philosophy
-- Building real-world applications with integrity  
-- Continuous learning and skill growth  
-- Accountability, teamwork, and trust are the foundation of every project
+| Docker | GitHub | Git | Linux | Postman | Figma | TensorFlow |
+|--------|--------|-----|-------|--------|-------|------------|
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/> | <img src="https://cdn.simpleicons.org/github/181717" width="40"/> | <img src="https://cdn.simpleicons.org/git/F05032" width="40"/> | <img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/> | <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"/> | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/> | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40"/> |
