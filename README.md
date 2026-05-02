@@ -44,19 +44,6 @@ Govt Titumir College
 - Collaborated with clients to gather requirements and translate them into functional applications  
 
 ---
-
-## Projects
-
-### 1. Next Event (Team Project)
-A full-stack event management platform that allows users to create, explore, and participate in both public and private events with payment integration and moderation features.  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Node.js, Express.js, PostgreSQL, Prisma, JWT, SSLCommerz, Cloudinary  
-
-### 2. Scene Ads (Team Project)
-A full-stack ads management and e-commerce platform connecting businesses with billboard owners through interactive maps, campaign management, and real-time chat.  
-**Tech Stack:** React, TypeScript, Redux, Tailwind CSS, ShadCN/UI, Google Maps API, Node.js, Express.js, PostgreSQL, Prisma, Supabase, Stripe, WebSocket, node-cron  
-
----
-
 ## Languages
 - **English:** Fluent  
 - **Bangla:** Native  
